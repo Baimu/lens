@@ -1,0 +1,2 @@
+run = 'npm --prefix ./lens run dev'
+entrypoint = './lens/pages/index.jsx'
